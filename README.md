@@ -7,4 +7,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0263-ugly-number](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/master/0263-ugly-number) |
+## Hash Table
+|  |
+| ------- |
+| [1189-maximum-number-of-balloons](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/master/1189-maximum-number-of-balloons) |
+## String
+|  |
+| ------- |
+| [1189-maximum-number-of-balloons](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/master/1189-maximum-number-of-balloons) |
+## Counting
+|  |
+| ------- |
+| [1189-maximum-number-of-balloons](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/master/1189-maximum-number-of-balloons) |
 <!---LeetCode Topics End-->
