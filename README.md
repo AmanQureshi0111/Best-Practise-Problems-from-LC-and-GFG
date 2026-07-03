@@ -1,4 +1,4 @@
-# Best-Practise-Problems-from-LC-and-GFG
+# Best-Practise-Problems-from-LC
 A collection of LeetCode questions to ace the coding interview! 
 
 <!---LeetCode Topics Start-->
