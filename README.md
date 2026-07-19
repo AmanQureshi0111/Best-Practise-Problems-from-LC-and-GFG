@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0316-remove-duplicate-letters](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -166,13 +167,16 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0316-remove-duplicate-letters](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0316-remove-duplicate-letters](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0316-remove-duplicate-letters](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 <!---LeetCode Topics End-->
