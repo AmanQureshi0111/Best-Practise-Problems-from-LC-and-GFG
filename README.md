@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1331-rank-transform-of-an-array](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## String
@@ -36,11 +38,13 @@ A collection of LeetCode questions to ace the coding interview!
 | [1189-maximum-number-of-balloons](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/master/1189-maximum-number-of-balloons) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -198,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 <!---LeetCode Topics End-->
