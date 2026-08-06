@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2685-count-the-number-of-complete-components](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3310-remove-methods-from-project](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3310-remove-methods-from-project](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/main/3310-remove-methods-from-project/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/main/2685-count-the-number-of-complete-components/) | Medium |
+| [3310-remove-methods-from-project](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
