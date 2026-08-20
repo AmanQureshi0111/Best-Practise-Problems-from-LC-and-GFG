@@ -12,9 +12,7 @@ public:
                 arr2.push_back(nums[i]);
             }
         }
-        vector<int> ans;
-        for(auto &num:arr1) ans.push_back(num);
-        for(auto &num:arr2) ans.push_back(num);
-        return ans;
+        for(auto &num:arr2) arr1.push_back(num);
+        return arr1;
     }
 };
