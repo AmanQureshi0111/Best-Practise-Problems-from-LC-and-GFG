@@ -1,0 +1,35 @@
+class Solution {
+	public:
+	int countSubsequences(string& s, int n) {
+		// code here
+		int MOD = 1e9 + 7;
+		
+		// dp[rem] stores the number of subsequences
+		// having remainder rem modulo n.
+		vector<int> dp(n, 0);
+		
+		// Process each digit of the string.
+		for (char ch : s)
+			{
+			int digit = ch - '0';
+			
+			// Copy the previous DP state.
+			vector<int> curr(dp);
+			
+			// Start a new subsequence with the current digit.
+			curr[digit % n] = (curr[digit % n] + 1) % MOD;
+			
+			// Append the current digit to all existing subsequences.
+			for (int rem = 0; rem < n; rem++)
+				{
+				int newRem = (rem * 10 + digit) % n;
+				curr[newRem] = (curr[newRem] + dp[rem]) % MOD;
+			}
+			
+			// Move to the next digit.
+			dp = curr;
+		}
+		
+		return dp[0];
+	}
+};
