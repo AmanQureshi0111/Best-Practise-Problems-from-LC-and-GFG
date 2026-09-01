@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1406-stone-game-iii](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/main/1510-stone-game-iv/) | Hard |
 | [1872-stone-game-viii](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/main/1872-stone-game-viii/) | Hard |
+| [1927-sum-game](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/main/1927-sum-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/main/2029-stone-game-ix/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1927-sum-game](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/main/1927-sum-game/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0316-remove-duplicate-letters](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1927-sum-game](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/main/2029-stone-game-ix/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
@@ -290,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1406-stone-game-iii](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/main/1510-stone-game-iv/) | Hard |
 | [1872-stone-game-viii](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/main/1872-stone-game-viii/) | Hard |
+| [1927-sum-game](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/main/2029-stone-game-ix/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
