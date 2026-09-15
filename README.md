@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1927-sum-game](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/main/1927-sum-game/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1406-stone-game-iii](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/main/1510-stone-game-iv/) | Hard |
 | [1872-stone-game-viii](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/main/1872-stone-game-viii/) | Hard |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/master/3620-network-recovery-pathways) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Simulation
@@ -273,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1927-sum-game](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/main/2029-stone-game-ix/) | Medium |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
