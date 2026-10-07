@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0115-distinct-subsequences](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/main/0115-distinct-subsequences/) | Hard |
+| [0301-remove-invalid-parentheses](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0316-remove-duplicate-letters](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/master/1189-maximum-number-of-balloons) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Nim Game
 | Problem Name | Difficulty |
