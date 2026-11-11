@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Hash Table
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3348-smallest-divisible-digit-product-ii](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
