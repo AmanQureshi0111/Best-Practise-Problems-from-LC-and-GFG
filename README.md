@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1510-stone-game-iv](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/main/1510-stone-game-iv/) | Hard |
 | [1872-stone-game-viii](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/main/1872-stone-game-viii/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/master/3620-network-recovery-pathways) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AmanQureshi0111/Best-Practise-Problems-from-LC-and-GFG/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Simulation
